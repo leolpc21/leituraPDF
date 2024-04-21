@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/leolpc21/leituraPDF/issues"
   },
-  "homepage": "https://github.com/leolpc21/leituraPDF#readme"
+  "homepage": "https://github.com/leolpc21/leituraPDF#readme",
+  "devDependencies": {
+    "cypress": "^13.8.0"
+  }
 }
