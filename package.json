@@ -1,0 +1,23 @@
+{
+  "name": "leitura_pdf",
+  "version": "1.0.0",
+  "description": "Baixar do email e realizar leitura de PDF com Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leolpc21/leituraPDF.git"
+  },
+  "keywords": [
+    "leituraPDF",
+    "cypress"
+  ],
+  "author": "Leo Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leolpc21/leituraPDF/issues"
+  },
+  "homepage": "https://github.com/leolpc21/leituraPDF#readme"
+}
