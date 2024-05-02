@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/leolpc21/leituraPDF#readme",
   "devDependencies": {
-    "cypress": "^13.8.0"
-  }
+    "cypress": "^13.8.0",
+    "cypress-mailslurp": "^1.9.0"
+  },
+  "dependencies": {}
 }
